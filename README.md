@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
         <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ghani-Haider&theme=monokai"
             alt="Ghani-Haider's Github commit streak">
     </a>
-    <a href="https://wakatime.com/@Ghani-Haider/">
+    <a href="https://wakatime.com/@ghanihaider99">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghani-Haider&langs_count=5&theme=tokyonight"
             alt="Ghani-Haider's wakatime last year stats">
     </a>
