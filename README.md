@@ -9,7 +9,7 @@ Ghani-Haider/Ghani-Haider is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm **Ghani Haider** !     <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
- A Software Engineer, ML Enthusiast, Eager to expand my knowledge of Machine Learning, and Software Devlopment. 🧑
+ A Software Engineer, ML Enthusiast, eager to expand my knowledge of Machine Learning, and Software Devlopment. 🧑
 
 ---
 
