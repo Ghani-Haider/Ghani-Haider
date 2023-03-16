@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Ghani Haider</h1> 
 
-I am computer science undergrad with experience and interest in Machine Learning and Data Science. I am seeking to leverage my data analysis and machine learning skills to deliver insights and implement action-oriented solutions to complex problems.
+I am a computer science undergrad with experience and interest in Machine Learning and Data Science. I am seeking to leverage my data analysis and machine learning skills to deliver insights and implement action-oriented solutions to complex problems.
 <!-- I am a nlp researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domain. -->
 
 <h3 align="left"> Projects & Open-Source Contributions:</h3>
