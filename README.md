@@ -31,6 +31,21 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | Quantum AI | |
 | [Quantum Artificial Neuron](https://github.com/Ghani-Haider/Quantum_Artificial_Neuron) | Implemented the quantum information-based algorithm proposed by [Tacchino et al.](https://www.nature.com/articles/s41534-019-0140-4), which is a quantum model of a binary-valued perceptron. |
 
+### Certificates:
+* [Deep Learning Online Bootcamp](https://drive.google.com/file/d/1-5qX1Bf_gHOtf6kk59oLVaSJ9AsKwHRq/view?usp=sharing)
+* [Getting Started with Natural Language Processing](https://drive.google.com/file/d/1p--IPIPD9mPXA1dGcQGq92VWcrs5eZL2/view?usp=sharing)
+* [Introduction to Career Skills in Data Analytics](https://drive.google.com/file/d/1gLggdgcj6eBXg4NQihZ9xInsq3qiupmj/view?usp=sharing)
+<!-- * [Intro to Machine Learning with Tensorflow Nanodegree](https://confirm.udacity.com/EAATQCZY)
+* [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/KCFRE3KD)
+* [AWS Fundemntals Specialization](https://coursera.org/share/e34358a0200a916eebb07b64f22d055e)
+* [Data Science Professional Certificate](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
+* [AI for Medicine](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
+* [Data Visualization with Seborn](https://www.kaggle.com/learn/certification/youssef19/data-visualization)
+* [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
+* [Data-Visualization-with-Plotly-in-Python](https://www.datacamp.com/statement-of-accomplishment/course/49b8afff93d6cbd07813b058ada618ddbd85fbab)
+* [Machine Learning Explanality-Kaggle](https://www.kaggle.com/learn/certification/youssef19/machine-learning-explainability)\ -->
+
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
