@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Ghani Haider</h1> 
+<h1 align="left">Hi, I'm Ghani Haider</h1>
 
 I am a computer science undergrad with experience and interest in Machine Learning and Data Science. I am seeking to leverage my data analysis and machine learning skills to deliver insights and implement action-oriented solutions to complex problems.
 <!-- I am a nlp researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domain. -->
@@ -8,19 +8,21 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | Topic | Summary |
 | ------------- | ------------- |
 | | |
+| Deep Learning | |
+| [2D Self-driving Simulation](https://github.com/Ghani-Haider/2D_Self-driving_Simulation-DQN) | Implemented Deep Q-Network (DQN) with greedy action selection policy for simulating a self-driving vehicle using OpenAI Gym car racing environment and CNN architecture. |
+| [Gender Determination by Morphometry of Eyes](https://github.com/Ghani-Haider/Gender_determination_morphometry-eyes_model) | A model which uses scanned images of patient’s eye and determine their gender for anthropometric analysis of the human face using Artificial Neural Network (ANN) |
+| | |
 | Regression Projects | |
 | [Seoul Bike Rent Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression%20Projects/Seoul%20Bike%20Rent/Seoul_Bike_Rent.ipynb) |Understand the trends in the data and indentify key factors affecting demand for rental bikes in Seoul as well as predict the amount of rental bikes required per hour.|
 | [Used Car Price Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression%20Projects/Car%20Price%20Prediction/Car_Price_Regression.ipynb)   |Using information about used cars listed on [cardekho](https://www.cardekho.com/), predicting car prices based on given features and trends in the data. |
 | | |
 | Classification Projects | |
+| [Heart Disease Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Heart_Disease_Classification/Heart_Disease_Classification.ipynb) | To confirm 100% if a patient has heart disease can be quite an invasive process, so creating a model that accurately predicts the likelihood of heart disease to help avoid expensive and invasive procedures. |
+| [IRIS Dataset Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Iris_Data_Classification/Iris_Data_Classification.ipynb) | Given classic Iris Dataset, the goal is to understand trends in the data and perform non binary classification with Logistic Regression. |
 | [FMNIST Dataset Classification with Sklearn Classifiers](https://github.com/Ghani-Haider/Image_Classification-FMNIST-Sklearn_Classifiers) | Given Fashion-MNIST dataset comprising of 28x28 grayscale images of 60,000 fashion products from 10 categories, a scikit-learn based classifier is built for this dataset to classify each input image into one (out of 10) categories. Experimented with five to six different classifiers and reported classification metrics for each of them. |
 | | |
 | Time Series Forecasting | |
 | [Hourly Energy Consumption](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Time%20Series%20Forecasting/PJMW%20Hourly%20Energy%20Consumption/hourly%20energy%20consumption.ipynb) | Given hourly power consumption data from PJM's website (an electric transmission organization in USA), understanding both short and long terms trends in energy consumption and to predict energy consumption over a certain period. |
-| | |
-| Deep Learning | |
-| [Gender Determination by Morphometry of Eyes](https://github.com/Ghani-Haider/Gender_determination_morphometry-eyes_model) | A model which uses scanned images of patient’s eye and determine their gender for anthropometric analysis of the human face using Artificial Neural Network (ANN) |
-| [2D Self-driving Simulation](https://github.com/Ghani-Haider/2D_Self-driving_Simulation-DQN) | Implemented Deep Q-Network (DQN) with greedy action selection policy for simulating a self-driving vehicle using OpenAI Gym car racing environment and CNN architecture. |
 | | |
 | Natural Language Processing | |
 | [Text Classification using Naive Bayes](https://github.com/Ghani-Haider/Text_Classification-Naive_Bayes) | Given a dataset of textual summary of medical queries classified into five different categories, built a naïve Bayes classifier to predict these categories for future queries. |
