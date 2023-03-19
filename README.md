@@ -17,6 +17,7 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | [Used Car Price Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression_Projects/Car%20Price%20Prediction/Car_Price_Regression.ipynb)   |Using information about used cars listed on [cardekho](https://www.cardekho.com/), predicting car prices based on given features and trends in the data. |
 | | |
 | Classification Projects | |
+| [Urdu Speech Emotion Recognition (SER)](https://github.com/AnandKumarRajpal/urdu-speech-emotion-recognition-using-voice/blob/main/Urdu_Speech_Emotion_Detection.ipynb) | Developed a Speech Emotion Recognition (SER) model for Urdu language using SEMOUR dataset in order to correctly classify the Urdu speech and audio inputs to emotions. |
 | [Heart Disease Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Heart_Disease_Classification/Heart_Disease_Classification.ipynb) | To confirm 100% if a patient has heart disease can be quite an invasive process, so creating a model that accurately predicts the likelihood of heart disease to help avoid expensive and invasive procedures. |
 | [Kaggle Titanic Survival Prediction](https://www.kaggle.com/code/ghanihaider/kaggle-titanic-dataset-submission-gh) | Titanic disaster dataset taken from Kaggle competition. The goal is to predict if a passenger survived from a set of features such as the class the passenger was in, hers/his age or the fare the passenger paid to get on board. |
 | [IRIS Dataset Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Iris_Data_Classification/Iris_Data_Classification.ipynb) | Given classic Iris Dataset, the goal is to understand trends in the data and perform non binary classification with Logistic Regression. |
@@ -81,6 +82,14 @@ I am a computer science undergrad with experience and interest in Machine Learni
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
+<!-- web (js, html, css) -->
+<p>Web Development</p>
+<p align="left"> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+</p>
+
 <p>DBMS</p>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -95,13 +104,6 @@ I am a computer science undergrad with experience and interest in Machine Learni
 
 <!-- opencv -->
 <!-- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  -->
-
-<!-- web (js, html, css) -->
-<!-- <p align="left"> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <div align="center" style="text-align:center">
