@@ -26,10 +26,8 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | | |
 | Classification Projects | |
 | [Urdu Speech Emotion Recognition (SER)](https://github.com/AnandKumarRajpal/urdu-speech-emotion-recognition-using-voice/blob/main/Urdu_Speech_Emotion_Detection.ipynb) | Developed a Speech Emotion Recognition (SER) model for Urdu language using SEMOUR dataset in order to correctly classify the Urdu speech and audio inputs to emotions. |
+| [Banknote Authentication](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Random%20Forest/Practice-RandomForest.ipynb) | Using Random Forest Classifier for distinguishing genuine and forged banknotes based on extracted wavelet information from genuine and forged banknote-like specimens. |
 | [Heart Disease Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Heart_Disease_Classification/Heart_Disease_Classification.ipynb) | To confirm 100% if a patient has heart disease can be quite an invasive process, so creating a model that accurately predicts the likelihood of heart disease to help avoid expensive and invasive procedures. |
-| [Kaggle Titanic Survival Prediction](https://www.kaggle.com/code/ghanihaider/kaggle-titanic-dataset-submission-gh) | Titanic disaster dataset taken from Kaggle competition. The goal is to predict if a passenger survived from a set of features such as the class the passenger was in, hers/his age or the fare the passenger paid to get on board. |
-| [IRIS Dataset Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Iris_Data_Classification/Iris_Data_Classification.ipynb) | Given classic Iris Dataset, the goal is to understand trends in the data and perform non binary classification with Logistic Regression. |
-| [FMNIST Dataset Classification with Sklearn Classifiers](https://github.com/Ghani-Haider/Image_Classification-FMNIST-Sklearn_Classifiers) | Given Fashion-MNIST dataset comprising of 28x28 grayscale images of 60,000 fashion products from 10 categories, a scikit-learn based classifier is built for this dataset to classify each input image into one (out of 10) categories. Experimented with five to six different classifiers and reported classification metrics for each of them. |
 | | |
 | Time Series Forecasting | |
 | [Hourly Energy Consumption](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Time_Series_Forecasting/PJMW%20Hourly%20Energy%20Consumption/hourly%20energy%20consumption.ipynb) | Given hourly power consumption data from PJM's website (an electric transmission organization in USA), understanding both short and long terms trends in energy consumption and to predict energy consumption over a certain period. |
@@ -40,6 +38,16 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | | |
 | Quantum AI | |
 | [Quantum Artificial Neuron](https://github.com/Ghani-Haider/Quantum_Artificial_Neuron) | Implemented the quantum information-based algorithm proposed by [Tacchino et al.](https://www.nature.com/articles/s41534-019-0140-4), which is a quantum model of a binary-valued perceptron. |
+
+<!-- =============================================================== -->
+<!-- Commented Projects -->
+<!-- =============================================================== -->
+<!-- | [Kaggle Titanic Survival Prediction](https://www.kaggle.com/code/ghanihaider/kaggle-titanic-dataset-submission-gh) | Titanic disaster dataset taken from Kaggle competition. The goal is to predict if a passenger survived from a set of features such as the class the passenger was in, hers/his age or the fare the passenger paid to get on board. |
+| [IRIS Dataset Classification](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Classification_Projects/Logistic_Regression/Iris_Data_Classification/Iris_Data_Classification.ipynb) | Given classic Iris Dataset, the goal is to understand trends in the data and perform non binary classification with Logistic Regression. |
+| [FMNIST Dataset Classification with Sklearn Classifiers](https://github.com/Ghani-Haider/Image_Classification-FMNIST-Sklearn_Classifiers) | Given Fashion-MNIST dataset comprising of 28x28 grayscale images of 60,000 fashion products from 10 categories, a scikit-learn based classifier is built for this dataset to classify each input image into one (out of 10) categories. Experimented with five to six different classifiers and reported classification metrics for each of them. | -->
+<!-- =============================================================== -->
+<!-- Commented Projects -->
+<!-- =============================================================== -->
 
 ### Certificates:
 * [Deep Learning Online Bootcamp](https://drive.google.com/file/d/1-5qX1Bf_gHOtf6kk59oLVaSJ9AsKwHRq/view?usp=sharing)
