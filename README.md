@@ -23,6 +23,7 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | Regression Projects | |
 | [Seoul Bike Rent Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression_Projects/Seoul%20Bike%20Rent/Seoul_Bike_Rent.ipynb) |Understand the trends in the data and indentify key factors affecting demand for rental bikes in Seoul as well as predict the amount of rental bikes required per hour.|
 | [Used Car Price Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression_Projects/Car%20Price%20Prediction/Car_Price_Regression.ipynb)   |Using information about used cars listed on [cardekho](https://www.cardekho.com/), predicting car prices based on given features and trends in the data. |
+| [Rock Density Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression_Projects/Rock_Density_Pred/Rock_Density_Prediction.ipynb) |Objective is to analyze the performance of different regression models on given dataset (use of X-rays in an attempt to know rock density)|
 | | |
 | Classification Projects | |
 | [Urdu Speech Emotion Recognition (SER)](https://github.com/AnandKumarRajpal/urdu-speech-emotion-recognition-using-voice/blob/main/Urdu_Speech_Emotion_Detection.ipynb) | Developed a Speech Emotion Recognition (SER) model for Urdu language using SEMOUR dataset in order to correctly classify the Urdu speech and audio inputs to emotions. |
