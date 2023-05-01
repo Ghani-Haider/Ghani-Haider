@@ -20,6 +20,9 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | [2D Self-driving Simulation](https://github.com/Ghani-Haider/2D_Self-driving_Simulation-DQN) | Implemented Deep Q-Network (DQN) with greedy action selection policy for simulating a self-driving vehicle using OpenAI Gym car racing environment and CNN architecture. |
 | [Gender Determination by Morphometry of Eyes](https://github.com/Ghani-Haider/Gender_determination_morphometry-eyes_model) | A model which uses scanned images of patient’s eye and determine their gender for anthropometric analysis of the human face using Artificial Neural Network (ANN) |
 | | |
+| Data Analysis & Visualizations | |
+| [Mushroom Dataset Exploration](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/EDA/Mushroom_Classification/Mushroom_Classification.ipynb) | The objective is to analyze the mushroom dataset to create a predictive model in order to classify edible and poisonous mushrooms. We also have to create a general guideline for features that are important to consider for future references. |
+| | |
 | Regression Projects | |
 | [Seoul Bike Rent Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression_Projects/Seoul%20Bike%20Rent/Seoul_Bike_Rent.ipynb) |Understand the trends in the data and indentify key factors affecting demand for rental bikes in Seoul as well as predict the amount of rental bikes required per hour.|
 | [Used Car Price Prediction](https://github.com/Ghani-Haider/Data_Science_Portfolio/blob/main/Regression_Projects/Car%20Price%20Prediction/Car_Price_Regression.ipynb)   |Using information about used cars listed on [cardekho](https://www.cardekho.com/), predicting car prices based on given features and trends in the data. |
