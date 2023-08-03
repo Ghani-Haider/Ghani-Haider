@@ -17,6 +17,7 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | ------------- | ------------- |
 | | |
 | Deep Learning | |
+| [Landscape Recognition](https://github.com/Ghani-Haider/Data_Science_Portfolio/tree/main/DL_Projects/Landscape_Recognition) | Implemented Tiny VGG model (inspired from cnn-explainer website) on landscape images dataset from Kaggle using PyTorch and torchvision. |
 | [2D Self-driving Simulation](https://github.com/Ghani-Haider/2D_Self-driving_Simulation-DQN) | Implemented Deep Q-Network (DQN) with greedy action selection policy for simulating a self-driving vehicle using OpenAI Gym car racing environment and CNN architecture. |
 | [Gender Determination by Morphometry of Eyes](https://github.com/Ghani-Haider/Gender_determination_morphometry-eyes_model) | A model which uses scanned images of patient’s eye and determine their gender for anthropometric analysis of the human face using Artificial Neural Network (ANN) |
 | | |
