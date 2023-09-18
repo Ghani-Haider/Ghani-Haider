@@ -1,7 +1,16 @@
 <h1 align="left">Hi, I'm Ghani Haider</h1>
 
-I am a computer science undergrad with experience and interest in Machine Learning and Data Science. I am seeking to leverage my data analysis and machine learning skills to deliver insights and implement action-oriented solutions to complex problems.
+I am a computer science undergrad with experience and interest in Deep Learning. I am seeking to leverage my deep learning skills to deliver insights and implement action-oriented solutions to complex problems.
 <!-- I am a nlp researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domain. -->
+
+<h3 align="left"> Implemented Research Papers:</h3>
+
+| Paper Code | Summary |
+| ------------- | ------------- |
+| | |
+| [Transformer's Decoder](https://github.com/Ghani-Haider/dl_papers_implemented/blob/main/decoder_transformer/decoder_transformer.py) | Implemented transformer's decoder for language generation from scratch using paper *Attention is all you need* to generate a sequence of characters given an input/prompt.
+| [Vision Transformer](https://github.com/Ghani-Haider/dl_papers_implemented/blob/main/vision_transformer/vit_model.py) | Implemented vision transformer (ViT) for image classification using paper *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*.
+| | |
 
 <h3 align="left"> Deployed Projects:</h3>
 
@@ -18,7 +27,7 @@ I am a computer science undergrad with experience and interest in Machine Learni
 | | |
 | Deep Learning | |
 | [Landscape Recognition](https://github.com/Ghani-Haider/Data_Science_Portfolio/tree/main/DL_Projects/Landscape_Recognition) | Implemented Tiny VGG model (inspired from cnn-explainer website) on landscape images dataset from Kaggle using PyTorch and torchvision. |
-| [Generating Shakespeare](https://github.com/Ghani-Haider/Data_Science_Portfolio/tree/main/DL_Projects/Decoder_LangModel) | Implemented transformer based language generation model from scratch using paper *Attention is all you need* to generate a sequence of characters given an input.|
+| [Generating Shakespeare](https://github.com/Ghani-Haider/Data_Science_Portfolio/tree/main/DL_Projects/Decoder_LangModel) | Implemented transformer based language generation model from scratch using paper *Attention is all you need* to generate Shakespeare's play.|
 | [2D Self-driving Simulation](https://github.com/Ghani-Haider/2D_Self-driving_Simulation-DQN) | Implemented Deep Q-Network (DQN) with greedy action selection policy for simulating a self-driving vehicle using OpenAI Gym car racing environment and CNN architecture. |
 | [Gender Determination by Morphometry of Eyes](https://github.com/Ghani-Haider/Gender_determination_morphometry-eyes_model) | A model which uses scanned images of patient’s eye and determine their gender for anthropometric analysis of the human face using Artificial Neural Network (ANN) |
 | | |
@@ -90,7 +99,7 @@ I am a computer science undergrad with experience and interest in Machine Learni
 <p align="left">
 <p>Data Analysis & Visualization</p>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/stable/#" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="pandas" width="60" height="40"/> </a> 
+<a href="https://matplotlib.org/stable/#" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="pandas" width="60" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
