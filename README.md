@@ -3,6 +3,7 @@
 I am a computer science undergrad with experience and interest in Deep Learning. I am seeking to leverage my deep learning skills to deliver insights and implement action-oriented solutions to complex problems.
 <!-- I am a nlp researcher  & data scientist. My research focuses on developing real-time computer vision algorithms for healthcare applications. I also worked as a data scientist for more than 3 years in the marketing, finance, and healthcare domain. -->
 
+<!--
 <h3 align="left"> Implemented Research Papers:</h3>
 
 | Paper Code | Summary |
@@ -53,6 +54,7 @@ I am a computer science undergrad with experience and interest in Deep Learning.
 | | |
 | Quantum AI | |
 | [Quantum Artificial Neuron](https://github.com/Ghani-Haider/Quantum_Artificial_Neuron) | Implemented the quantum information-based algorithm proposed by [Tacchino et al.](https://www.nature.com/articles/s41534-019-0140-4), which is a quantum model of a binary-valued perceptron. |
+-->
 
 <!-- =============================================================== -->
 <!-- Commented Projects -->
@@ -64,10 +66,11 @@ I am a computer science undergrad with experience and interest in Deep Learning.
 <!-- Commented Projects -->
 <!-- =============================================================== -->
 
-### Certificates:
+<!--### Certificates:
 * [Deep Learning Online Bootcamp](https://drive.google.com/file/d/1-5qX1Bf_gHOtf6kk59oLVaSJ9AsKwHRq/view?usp=sharing)
 * [Getting Started with Natural Language Processing](https://drive.google.com/file/d/1p--IPIPD9mPXA1dGcQGq92VWcrs5eZL2/view?usp=sharing)
-* [Introduction to Career Skills in Data Analytics](https://drive.google.com/file/d/1gLggdgcj6eBXg4NQihZ9xInsq3qiupmj/view?usp=sharing)
+* [Introduction to Career Skills in Data Analytics](https://drive.google.com/file/d/1gLggdgcj6eBXg4NQihZ9xInsq3qiupmj/view?usp=sharing)-->
+
 <!-- * [Intro to Machine Learning with Tensorflow Nanodegree](https://confirm.udacity.com/EAATQCZY)
 * [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/KCFRE3KD)
 * [AWS Fundemntals Specialization](https://coursera.org/share/e34358a0200a916eebb07b64f22d055e)
@@ -83,11 +86,9 @@ I am a computer science undergrad with experience and interest in Deep Learning.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
  -->
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
-<!-- Lang & OS -->
 <p align="left">
-<!-- <p>Languages and OS</p> -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -95,7 +96,7 @@ I am a computer science undergrad with experience and interest in Deep Learning.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<!-- Data Analysis & Visualization -->
+
 <p align="left">
 <p>Data Analysis & Visualization</p>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -103,17 +104,18 @@ I am a computer science undergrad with experience and interest in Deep Learning.
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-<!-- ML/ DL -->
+
 <p align="left">
 <p align="left">
 <p>ML / DS</p>
-<!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  -->
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="pandas" width="40" height="40"/> </a> 
-</p>
+</p>-->
+<!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  -->
 
 <!-- web (js, html, css) -->
+<!--
 <p>Web Development</p>
 <p align="left"> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -125,6 +127,7 @@ I am a computer science undergrad with experience and interest in Deep Learning.
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
+-->
 
 <!-- ML / DS -->
 <!-- <p align="left">  
