@@ -141,8 +141,8 @@ I am a computer science graduate student with experience and interest in Deep Le
 
 <h3 align="left">Connect with me:</h3>
 <div align="center" style="text-align:center">
-    <a href="mailto:ghani_mhalimi@outlook.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    <a href="mailto:ghani.mhalimi@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Ghani-Haider's email">
     </a>
     <a href="https://www.linkedin.com/in/ghanihaider99/">
